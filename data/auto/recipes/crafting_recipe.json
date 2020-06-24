@@ -1,0 +1,27 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "gDg",
+        "DMD",
+        "gFg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "M": {
+            "item": "minecraft:minecart"
+        },
+        "F": {
+            "item": "minecraft:furnace_minecart"
+        }
+    },
+    "result": {
+        "item": "minecraft:endermite_spawn_egg",
+        "count": 63
+    },
+    "group": "stuff"
+}
